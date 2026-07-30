@@ -1,0 +1,9 @@
+---
+title: "Astro Paper配置教程"
+pubDate: 2026-07-30
+tags: ["Astro", "博客搭建"]
+draft: false # true为草稿，不会被打包发布
+ogImage: "custom-article-og.jpg" # 单文章独立分享图
+description: "手把手教你配置Astro Paper个人博客"
+---
+正文内容...
