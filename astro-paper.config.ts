@@ -15,7 +15,7 @@ export default defineAstroPaperConfig({
 
     // 社交分享OG封面图
     ogImage: "default-og.jpg", // public目录下的分享图，不填则用default-og.jpg
-    googleVerification: "", // 谷歌站长验证字符串，也可写在.env
+    googleVerification: "123", // 谷歌站长验证字符串，也可写在.env
   },
 
   // ========== 2. 文章分页、定时发布配置 ==========
@@ -43,7 +43,6 @@ export default defineAstroPaperConfig({
   socials: [
     { name: "github", url: "https://github.com/bijiaoboke" },
     { name: "mail", url: "mailto:1296001396@qq.com" },
-    { name: "wechat", url: "#" } // 微信需要自行添加wechat.svg图标
   ],
 
   // ========== 5. 文章底部分享渠道 ==========
