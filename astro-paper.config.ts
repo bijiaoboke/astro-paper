@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   // ========== 1. 网站基础信息（标题、域名、语言、时区、SEO） ==========
   site: {
-    url: "https://.www.bijiaoboke.ccwu.cc", // 生产部署必填；本地开发可空
+    url: "https://www.bijiaoboke.ccwu.cc", // 生产部署必填；本地开发可空
     title: "夜雨博客", // 网站标题（导航栏、浏览器标签、SEO）
     description: "小学生整的个人博客，by GayChou", // 网站描述，搜索引擎抓取
     author: "Gay Chou",
