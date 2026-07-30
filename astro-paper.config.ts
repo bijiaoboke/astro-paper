@@ -2,19 +2,19 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    url: "https://bijiaoboke.ccwu.cc/",
+    title: "夜雨博客",
+    description: "5年级作者做的个人博客，by Gay Chou",
     author: "Sat Naing",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
-    lang: "en",
-    timezone: "Asia/Bangkok",
+    lang: "ZH-cn",
+    timezone: "Asia/Shanghai",
     dir: "ltr",
   },
   posts: {
-    perPage: 4,
-    perIndex: 4,
+    perPage: 8,
+    perIndex: 6,
     scheduledPostMargin: 15 * 60 * 1000,
   },
   features: {
